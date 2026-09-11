@@ -1,7 +1,7 @@
 ## Author
 
 **Rohan Mahesh Naik** ,
-**B.Sc. Data Science & AI Student** ,
+**B.Sc. Data Science Student** ,
 **Student ID : 5630664** ,
 **Roll No : 43** ,
 **Subject : DAA** ,

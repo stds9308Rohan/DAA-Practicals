@@ -1,8 +1,9 @@
 ## Author
 
-**Krishna singh** ,
-**B.Sc. Data Science Student** , 
-**Roll No : 61** ,
+**Rohan Mahesh Naik** ,
+**B.Sc. Data Science & AI Student** ,
+**Student ID : 5630664** ,
+**Roll No : 43** ,
 **Subject : DAA** ,
 **College : B.K. Birla College of Arts, Science & Commerce**
 
@@ -77,7 +78,7 @@ Programs included:
 2. Menu-Driven Stack
 3. Queue Using List
 4. Menu-Driven Queue
-5. Circular Queue Using 
+5. Circular Queue
 
 ### Practical 8 - Recursion, Trees and Advanced Data Structures
 
@@ -92,6 +93,4 @@ Programs included:
 7. Word Frequency Count
 8. Set Operations
 9. Stack Using Linked List
-10. Queue Using 
-
----
+10. Queue Using Linked List
